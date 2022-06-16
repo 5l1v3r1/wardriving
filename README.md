@@ -1,4 +1,5 @@
 # wardriving
+
 Python Wardriving aracı
 
 Aracın kötü niyetli kullanılmasında şahsım sorumlu tutulamaz.
@@ -19,11 +20,11 @@ ssidBul.py örnek çıktısı:
 
 konum.py çalıştırılması esnasında konum bilgisine izin verilmesi hakkındaki ekran görüntüsü aşağıdaki şekildedir:
 
-<img src="https://github.com/anilbaranyelken/baycomard/blob/master/geody1.JPG">
+<img src="https://github.com/anil-yelken/wardriving/blob/master/geody1.JPG">
 
 konum bilgisinin aldığına dair ekran görüntüsü aşağıdaki şekildedir:
 
-<img src="https://github.com/anilbaranyelken/baycomard/blob/master/geody2.JPG">
+<img src="https://github.com/anil-yelken/wardriving/blob/master/geody2.JPG">
 
 konum.py örnek çıktısı:
 
@@ -41,7 +42,7 @@ lat=38.8333635|lon=34.759741899|20 March 2018 11:49PM
 
 lat=38.8333635|lon=34.759741899|20 March 2018 11:49PM
 
-Yapılan veri toplama işlemlerinde sonra  baycomard.py çalıştırılması sonucu aşağıdaki çıktı elde edilmektedir:
+Yapılan veri toplama işlemlerinde sonra  wardriving.py çalıştırılması sonucu aşağıdaki çıktı elde edilmektedir:
 
 lat=38.8333635|lon=34.759741899|20 March 2018 11:48PM|9c:b2:b2:11:12:13|ECFJ3M
 
