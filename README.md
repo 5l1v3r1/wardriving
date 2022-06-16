@@ -20,11 +20,11 @@ ssidBul.py örnek çıktısı:
 
 konum.py çalıştırılması esnasında konum bilgisine izin verilmesi hakkındaki ekran görüntüsü aşağıdaki şekildedir:
 
-<img src="https://github.com/anil-yelken/wardriving/blob/master/geody1.JPG">
+<img src="https://github.com/anil-yelken/wardriving/blob/main/geody1.JPG">
 
 konum bilgisinin aldığına dair ekran görüntüsü aşağıdaki şekildedir:
 
-<img src="https://github.com/anil-yelken/wardriving/blob/master/geody2.JPG">
+<img src="https://github.com/anil-yelken/wardriving/blob/main/geody2.JPG">
 
 konum.py örnek çıktısı:
 
